@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BusinessTeams/Digital%20Factory/_apis/build/status%2FLiuhanKUKA.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/BusinessTeams/Digital%20Factory/_build/latest?definitionId=17&branchName=main)
 
 # Contributing
 
