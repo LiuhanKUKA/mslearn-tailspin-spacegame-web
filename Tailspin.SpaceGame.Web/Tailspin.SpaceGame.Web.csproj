@@ -12,5 +12,4 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
-
 </Project>
